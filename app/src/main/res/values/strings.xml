@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ore wa testo desu ga</string>
+    <string-array name="movie_name">
+        <item>Top Gun </item>
+        <item>Free Guy</item>
+        <item>Batman Begins</item>
+        <item>Iron man</item>
+
+    </string-array>
+</resources>
